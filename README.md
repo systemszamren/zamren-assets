@@ -1,0 +1,1 @@
+# zamren-assets
