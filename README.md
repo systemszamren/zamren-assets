@@ -1,2 +1,3 @@
-# zamren-assets
-# zamren-assets
+```bash
+Zambia Research and Education Network (ZAMREN)
+```
