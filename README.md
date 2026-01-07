@@ -27,3 +27,4 @@ Below is a list of all image assets. Click any link to open the file in a new ta
 - <a href="https://systemszamren.github.io/zamren-assets/zamren-logo-no-bg.png" target="_blank">zamren-logo-no-bg.png</a>  
 - <a href="https://systemszamren.github.io/zamren-assets/zamren.jpg" target="_blank">zamren.jpg</a>  
 - <a href="https://systemszamren.github.io/zamren-assets/zamren_logo.png" target="_blank">zamren_logo.png</a>
+- <a href="https://systemszamren.github.io/zamren-assets/unicosis.png" target="_blank">unicosis.png</a>
